@@ -28,6 +28,8 @@ public class GitDeneme1 {
         //Example 1: Array'deki her elemani sonuna ! isareti koyarak yazdiriniz.
         for (int i=0; i< stdNames.length; i++){
             System.out.println(stdNames[i] + "!");
+            
+            //sanirim basardim
 
         }
     }
